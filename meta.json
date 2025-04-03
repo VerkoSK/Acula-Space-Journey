@@ -4,7 +4,7 @@
     "versions": [
         {
             "id": "1.2.9",
-            "releasedAt": 1743645600000,
+            "releasedAt": 1743552000000,
             "promotions": {
                 "downloads": {
                     "curseforge": "https://www.curseforge.com/minecraft/modpacks/acula-space-journey",
@@ -14,7 +14,7 @@
         },
         {
             "id": "1.2.9g",
-            "releasedAt": 1743696000000,
+            "releasedAt": 1743696000000,  
             "promotions": {
                 "downloads": {
                     "curseforge": "https://www.curseforge.com/minecraft/modpacks/acula-space-journey",
