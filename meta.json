@@ -2,17 +2,17 @@
     "schemaVersion": 1,
     "hotfixesFormat": null,
     "versions": [
-   {
-        "id": "1.2.9",
-        "releasedAt": 1743648000000,
+    {
+        "id": "1.0.0",
+        "releasedAt": 209384093820,
         "promotions": {
             "downloads": {
-                "curseforge": "https://www.curseforge.com/minecraft/modpacks/acula-space-journey",
-                "generic": "https://acula.eu/asj"
+                "modrinth": "https://modrinth.com/",
+                "curseforge": "https://curseforge.com/",
+                "generic": "https://example.com/"
             }
         }
     }
-        
     {
         "id": "1.2.9g",
         "releasedAt": 1743696000000,
