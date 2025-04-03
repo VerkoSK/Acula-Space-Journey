@@ -10,6 +10,9 @@ Added:
 - ServerConfig Updater
 - Fake Player
 
+Added:
+- All AE2 mods
+
 Configs:
 - Added ftbessentials to default config
 - Restricted teleport commands, excluding /back on death (history 5 backs)
