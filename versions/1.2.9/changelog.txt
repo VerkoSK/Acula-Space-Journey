@@ -10,7 +10,7 @@ Added:
 - ServerConfig Updater
 - Fake Player
 
-Added:
+Removed:
 - All AE2 mods
 
 Configs:
