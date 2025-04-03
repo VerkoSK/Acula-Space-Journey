@@ -1,4 +1,4 @@
-Updated:
+**Updated:**
 - Sophisticated Backpacks
 - Sophisticated Core
 - Simple Voice Chat
