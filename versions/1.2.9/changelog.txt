@@ -1,20 +1,19 @@
-**Updated**
-*   Sophisticated Backpacks
-*   Sophisticated Core
-*   Simple Voice Chat
+Updated:
+- Sophisticated Backpacks
+- Sophisticated Core
+- Simple Voice Chat
 
-**Added**
-*   Dandi2k8's Ad Extendra
-*   Scarecrows' Territory
-*   Modpack Update Checker
-*   ServerConfig Updater
-*   Fake Player
+Added:
+- Dandi2k8's Ad Extendra
+- Scarecrows' Territory
+- Modpack Update Checker
+- ServerConfig Updater
+- Fake Player
 
-**Configs**
-*   Added ftbessentials to default config
-*   Banned teleport commands excluse /back on death (history 5 backs)
+Configs:
+- Added ftbessentials to default config
+- Restricted teleport commands, excluding /back on death (history 5 backs)
 
-**Combinable with Server pack: v1.2.9**
+Combinable with Server pack: v1.2.9
 
-**ALWAYS REMEMBER TO BACKUP BEFORE UPDATING**
----------------------------------------------
+**REMEMBER TO BACKUP BEFORE UPDATING**
