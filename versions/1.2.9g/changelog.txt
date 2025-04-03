@@ -1,0 +1,13 @@
+Graphics update V2
+**Updated:**
+- Complementary Shaders - Unbound settings
+
+
+**Fixed:**
+- Render stargates shadows
+
+
+Combinable with Server pack: v1.2.9
+
+
+**REMEMBER TO BACKUP BEFORE UPDATING**
