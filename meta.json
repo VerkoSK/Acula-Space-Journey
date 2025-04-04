@@ -24,5 +24,16 @@
                 }
             }
         }
+        {
+            "id": "1.3.0",
+            "releasedAt": 1743552000000,
+            "updateType": "minor",
+            "promotions": {
+                "downloads": {
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/acula-space-journey",
+                    "generic": "https://acula.eu/asj"
+                }
+            }
+        },
     ]
 }
