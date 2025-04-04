@@ -1,0 +1,34 @@
+**Fixed:**
+- Memory use
+- Weather2, Mekanism, JSG transfered from server configs to clients
+
+**Updated:**
+- Moonlight Lib
+- OpenComputers II: Reimagined
+- Sophisticated Core
+
+
+**Added:**
+- Create: Food
+- I'm Fast
+- Dimensional Threading Reforked
+- ServerCore
+- Forgified Fabric API
+- Almanac Lib
+- BadOptimizations
+- Crash Assistant
+- AllTheLeaks (Memory Leak Fix)
+- Let Me Despawn
+- Not Enough Crashes (Forge)
+- lazyyyyy
+- Create: Factory
+
+
+**Configs:**
+- More sync. with servers config
+
+
+Combinable with Server pack: v1.3.0
+
+
+**REMEMBER TO BACKUP BEFORE UPDATING**
