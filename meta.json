@@ -8,8 +8,7 @@
             "updateType": "minor_breaking",
             "promotions": {
                 "downloads": {
-                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/acula-space-journey",
-                    "generic": "https://acula.eu/asj"
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/acula-space-journey"
                 }
             }
         },
@@ -19,8 +18,7 @@
             "updateType": "minor_breaking",
             "promotions": {
                 "downloads": {
-                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/acula-space-journey",
-                    "generic": "https://acula.eu/asj"
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/acula-space-journey"
                 }
             }
         },
@@ -30,8 +28,7 @@
             "updateType": "minor_breaking",
             "promotions": {
                 "downloads": {
-                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/acula-space-journey",
-                    "generic": "https://acula.eu/asj"
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/acula-space-journey"
                 }
             }
         },
@@ -41,8 +38,7 @@
             "updateType": "major",
             "promotions": {
                 "downloads": {
-                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/acula-space-journey",
-                    "generic": "https://acula.eu/asj"
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/acula-space-journey"
                 }
             }
         }
