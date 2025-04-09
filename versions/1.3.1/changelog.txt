@@ -1,0 +1,21 @@
+**Fixed:**
+- Create: The Factory Must Grow (fixes crashing, but can still occur in some situations)
+
+**Updated:**
+- Serene Seasons
+- Curios API (Forge/NeoForge)
+- Crash Assistant
+
+
+**Added:**
+- Create: The Factory Must Grow (fixes crashing, but can still occur in some situations)
+- Rechiseled
+- Create: Copycats+ (disabled, waiting on support create 6.0.x)
+- Create Railways Navigator (disabled, waiting on support create 6.0.x)
+- Fusion (Connected Textures)
+- Rechiseled: Create (disabled, waiting on support create 6.0.x)
+
+Combinable with Server pack: v1.3.1
+
+
+**REMEMBER TO BACKUP BEFORE UPDATING**
