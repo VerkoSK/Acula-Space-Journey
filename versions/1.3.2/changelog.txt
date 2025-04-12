@@ -1,5 +1,5 @@
 **Fixed**
-- Main menu update bar
+- Main menu update button
 
 **Updated:**
 - Create: Enchantment Industry
