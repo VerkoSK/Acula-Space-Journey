@@ -1,3 +1,6 @@
+**Fixed**
+- Rechiseled: Create
+
 **Updated:**
 - FTB Chunks (Forge)
 - Jade 🔍
@@ -27,12 +30,10 @@
 
 **Added:**
 - Better Advancements
-- Cosmic Horizons
 - Mekanism Tools
 - Biomes O' Plenty
 - TerraBlender (Forge)
 - Create: Copycats+
-- HologramPanel
 
 
 
