@@ -1,33 +1,51 @@
-**Fixed:**
-- 
--
-- 
-
 **Updated:**
-- 
--
-- 
+- FTB Chunks (Forge)
+- Jade 🔍
+- EMI 
+- Drippy Loading Screen
+- Ender's Delight
+- Sophisticated Backpacks
+- Zeta
+- Curios API (Forge/NeoForge)
+- Simple Voice Chat
+- Create Ore Excavation
+- lazyyyyy
+- JamLib
+- FTB Quests (Forge)
+- Crash Assistant
+- Kiwi 🥝 (Neo/Forge)
+- Quark
+- Dynamic FPS
+- Chat Heads
+- FancyMenu
+- OpenComputers II: Reimagined
+- Fusion (Connected Textures)
+- Supplementaries
+- Sophisticated Core
+
 
 
 **Added:**
-- 
-- 
-- 
+- Better Advancements
+- Cosmic Horizons
+- Mekanism Tools
+- Biomes O' Plenty
+- TerraBlender (Forge)
+- Create: Copycats+
+- HologramPanel
 
 
 
 **Removed:**
-- 
-- 
-- 
+- sedna
+
 
 
 **Configs:**
-- 
-- 
+- Updated versions
 
 
-Combinable with Server pack: v1.2.9
+Combinable with Server pack: v1.3.5
 
 
 **REMEMBER TO BACKUP BEFORE UPDATING**
