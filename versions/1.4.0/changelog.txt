@@ -1,33 +1,70 @@
 **Fixed:**
-- 
-- 
-- 
+Propably Fixed bug reported by Arc
 
 **Updated:**
-- 
-- 
-- 
+- Security Craft
+- Create: Food
+- Create: Enchantment Industry
+- Sophisticated Backpacks
+- Mekanism
+- Mekanism Generators
+- Skin Layers 3D (Fabric/Forge)
+- Corpse
+- Just Enough Items (JEI)
+- Create Ore Excavation
+- Mantle
+- Fast IP Ping
+- Electrodynamics
+- Moonlight Lib
+- Balm
+- lazyyyyy
+- Modpack Update Checker
+- FTB Ranks (Forge)
+- Not Enough Crashes (Forge)
+- Mekanism Tools
+- Delightful
+- CraterLib
+- Packet Fixer
+- AllTheLeaks (Memory Leak Fix)
+- Crash Assistant
+- ModernFix
+- Create
+- Saro´s Money
+- Corn Delight[Forge]
+- Create: New Age
+- Farmer's Delight
+- Create Big Cannons
+- BadOptimizations
+- Ritchie's Projectile Library
+- Storage Drawers
+- Create: Copycats+
+- GeckoLib
+- Mysterious Mountain Lib
+- Dynamic FPS
+- Create Railways Navigator
+- Create: Central Kitchen
+- Fruits Delight
+- Simple Discord RPC
+- Chat Heads
+- FancyMenu
+- Voltaic API
+- Entity Culling Fabric/Forge
+- Create: The Factory Must Grow
+- OpenComputers II: Reimagined
+- Tinkers Construct
+- Nuclear Science
+- Simple Discord Link Bot
+- FTB Essentials (Forge & Fabric)
+- Chloride (Embeddium++/Sodium++)
+- Snow! Real Magic! ⛄ (Neo/Forge)
+- Jade Addons (Neo/Forge)
+- Supplementaries
+- Cultural Delights
+- Sophisticated Core
 
 
-**Added:**
-- 
-- 
-- 
 
-
-
-**Removed:**
-- 
-- 
-- 
-
-
-**Configs:**
-- 
-- 
-
-
-Combinable with Server pack: v1.2.9
+Combinable with Server pack: v1.4.0
 
 
 **REMEMBER TO BACKUP BEFORE UPDATING**
