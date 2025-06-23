@@ -1,0 +1,33 @@
+**Fixed:**
+- 
+- 
+- 
+
+**Updated:**
+- 
+- 
+- 
+
+
+**Added:**
+- 
+- 
+- 
+
+
+
+**Removed:**
+- 
+- 
+- 
+
+
+**Configs:**
+- 
+- 
+
+
+Combinable with Server pack: v1.2.9
+
+
+**REMEMBER TO BACKUP BEFORE UPDATING**
